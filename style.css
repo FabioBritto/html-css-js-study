@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    text-align: center;
 }
 
 h1 {
@@ -10,7 +11,7 @@ p {
     color: #F6F6F6;
 }
 
-strong {
+.destaque-titulo {
      color: #22D4FD;
 }
 
